@@ -2,7 +2,7 @@
 ### Any project needs enviornment : so 1st we will create enviornment by using UV package manager {for python} or conda
 conda link :  https://anaconda.org/anaconda/conda
 uv package manager link  : https://github.com/astral-sh/uv
-
+tavily link : https://www.tavily.com/
 
 to initialize work space using uv
 ```
